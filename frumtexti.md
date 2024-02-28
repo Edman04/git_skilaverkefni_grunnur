@@ -1,37 +1,37 @@
-###Irure veniam deserunt excepteur
+#Irure veniam deserunt excepteur
 
-Eu excepteur id pariatur velit
-Ex est eiusmod quis in tempor
-Nulla consequat in duis quis
-Ad esse sit nostrud est sit sunt
-Eiusmod tempor et fugiat
-Dolore ut velit
-Commodo occaecat
-Occaecat amet labore
+1. Eu excepteur id pariatur velit
+2. Ex est eiusmod quis in tempor
+3. Nulla consequat in duis quis
+4. Ad esse sit nostrud est sit sunt
+5. Eiusmod tempor et fugiat
+6. Dolore ut velit
+7. Commodo occaecat
+8. Occaecat amet labore
 
-Eu excepteur id pariatur velit
+##Eu excepteur id pariatur velit
 
-Et sit incididunt ex ad quis. Tempor dolor velit laborum qui. Consequat occaecat anim ut deserunt laboris ea amet et.
+ Et sit incididunt ex ad quis. Tempor dolor velit laborum qui. Consequat occaecat anim ut deserunt laboris ea amet et.
 
-Ex est eiusmod quis in tempor
+##Ex est eiusmod quis in tempor
 
-Minim dolor et cillum Lorem cillum sunt. Duis eiusmod anim anim ut dolor. Nulla non voluptate ex est anim elit pariatur. Qui dolor ut nostrud dolor. Duis ipsum exercitation pariatur in. Anim voluptate irure aliquip aliquip magna et dolore. Ex nostrud consectetur consequat dolor incididunt minim consequat sint tempor cillum ex.
+Minim dolor et cillum Lorem cillum sunt. Duis eiusmod anim anim ut dolor. Nulla non voluptate ex est anim elit pariatur>
 
-Nulla consequat in duis quis
+###Nulla consequat in duis quis
 
-Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatur. Incididunt minim culpa dolore ipsum excepteur culpa ut velit magna. Ad et dolore ad nisi dolore nulla elit. Enim sit aliquip magna amet minim do tempor ullamco ea dolor quis eu. Eiusmod tempor et fugiat ea ea voluptate aliquip amet duis nulla. Sunt deserunt aliquip sit aliqua eiusmod irure enim commodo quis do tempor incididunt.
+Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatur. Incididunt minim culpa dolore ipsum >
 
-Ad esse sit nostrud est sit sunt
+##Ad esse sit nostrud est sit sunt
 
-Miðja  Vinstri  Hægri
-12  34  56
-tempor  et  fugiat
+`Miðja`  `Vinstri`  `Hægri`
+`12`  `34`  `56`
+`tempor`  `et`  `fugiat`
 
-Eiusmod tempor et fugiat
+###Eiusmod tempor et fugiat
 
 HÉR Á MERMAID KÖKURITIÐ AÐ KOMA
 
-Dolore ut velit
+###Dolore ut velit
 
 
 void setup() {
@@ -39,14 +39,20 @@ void setup() {
     Serial.println("Halló");
 }
 
-Commodo occaecat
+##Commodo occaecat
 
-Incididunt
-laborum
+1. Incididunt
+2. laborum
 mollit
 cupidatat
-laboris
-anim
+3. laboris
+4. anim
+1. Incididunt
+2. laborum
+mollit
+cupidatat
+3. laboris
+4. anim
 
 Velit sit sunt incididunt ipsum eiusmod id ipsum deserunt sint non enim.
 
@@ -61,4 +67,4 @@ aliquip
 
 Slóð á mynd: https://tskoli.is/wp-content/uploads/2019/06/skolavorduholt-595x440.jpg
 
-Video id: HUBNt18RFbo
+Video id: https://youtu.be/dQw4w9WgXcQ?si=cM6B0KAyNqSK1LEg
